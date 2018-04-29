@@ -1,0 +1,7 @@
+syntax: glob
+
+.hgignore
+*.swp
+*.pyc
+parser.out
+parsetab.py
